@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1693658077 source:/home/acherontas/codeblock/weird_9_arm64/main.cpp
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+	<unistd.h>
+	<chrono>
+	<atomic>
+	<thread>
+	<climits>
+	<limits>
+	<iomanip>
+	<vector>
+	<sstream>
+	<list>
+	<cstring>
+	<fstream>
+	<string>
+	<locale>
+	<cmath>
+	<math.h>
+
