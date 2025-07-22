@@ -1,0 +1,146 @@
+acherontas@raspberrypi:~/codeblock/weird_9_arm64/bin/Debug $ ./weird_9_arm64 0
+voyeristic behaviours and other have fun xD
+the default value for increase is 10 use [0] if u want to increase it use +=10;
+default value of increase is 0
+give me the number : 2785
+u give me : 2785 with number size : 4
+
+the number is 2785 + 20708050 ::= 20710835 sum of 8 and addth 220
+  |
+  v
+  ----> with mld variable: 2785 - 20708050 ::= 20705265 sum of 9
+  ----> with dlm variable: 2785 - 220 ::= 2565 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 278 + 207080 ::= 207358 sum of 7 and addth 170
+  |
+  v
+  ----> with mld variable: 278 - 207080 ::= 206802 sum of 9
+  ----> with dlm variable: 278 - 170 ::= 108 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 27 + 2070 ::= 2097 sum of 9 and addth 90
+  |
+  v
+  ----> with mld variable: 27 - 2070 ::= 2043 sum of 9
+  ----> with dlm variable: 27 - 90 ::= 63 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 2 + 20 ::= 22 sum of 4 and addth 20
+  |
+  v
+  ----> with mld variable: 2 - 20 ::= 18 sum of 9
+  ----> with dlm variable: 2 - 20 ::= 18 sum of 9
+  ----> we reach the 9
+  ----> same
+
+
+./weird_9_arm64 1
+voyeristic behaviours and other have fun xD
+the default value for increase is 10 use [0] if u want to increase it use +=10;
+give me the number : 2785
+u give me : 2785 with number size : 4
+
+the number is 2785 + 21718151 ::= 21720936 sum of 3 and addth 224
+  |
+  v
+  ----> with mld variable: 2785 - 21718151 ::= 21715366 sum of 4
+  ----> with dlm variable: 2785 - 224 ::= 2561 sum of 5
+  ----> we dont reach the 9
+  ----> not the same
+
+the number is 278 + 217181 ::= 217459 sum of 1 and addth 173
+  |
+  v
+  ----> with mld variable: 278 - 217181 ::= 216903 sum of 3
+  ----> with dlm variable: 278 - 173 ::= 105 sum of 6
+  ----> we dont reach the 9
+  ----> not the same
+
+the number is 27 + 2171 ::= 2198 sum of 2 and addth 92
+  |
+  v
+  ----> with mld variable: 27 - 2171 ::= 2144 sum of 2
+  ----> with dlm variable: 27 - 92 ::= 65 sum of 2
+  ----> we dont reach the 9
+  ----> same
+
+the number is 2 + 21 ::= 23 sum of 5 and addth 21
+  |
+  v
+  ----> with mld variable: 2 - 21 ::= 19 sum of 1
+  ----> with dlm variable: 2 - 21 ::= 19 sum of 1
+  ----> we dont reach the 9
+  ----> same
+
+./weird_9_arm64 0
+give me the number : 78895621
+u give me : 78895621 with number size : 8
+
+the number is 78895621 + 7080809050602010 ::= 7080809129497631 sum of 2 and addth 460
+  |
+  v
+  ----> with mld variable: 78895621 - 7080809050602010 ::= 7080808971706389 sum of 9
+  ----> with dlm variable: 78895621 - 460 ::= 78895161 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 7889562 + 70808090506020 ::= 70808098395582 sum of 9 and addth 450
+  |
+  v
+  ----> with mld variable: 7889562 - 70808090506020 ::= 70808082616458 sum of 9
+  ----> with dlm variable: 7889562 - 450 ::= 7889112 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 788956 + 708080905060 ::= 708081694016 sum of 5 and addth 430
+  |
+  v
+  ----> with mld variable: 788956 - 708080905060 ::= 708080116104 sum of 9
+  ----> with dlm variable: 788956 - 430 ::= 788526 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 78895 + 7080809050 ::= 7080887945 sum of 2 and addth 370
+  |
+  v
+  ----> with mld variable: 78895 - 7080809050 ::= 7080730155 sum of 9
+  ----> with dlm variable: 78895 - 370 ::= 78525 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 7889 + 70808090 ::= 70815979 sum of 1 and addth 320
+  |
+  v
+  ----> with mld variable: 7889 - 70808090 ::= 70800201 sum of 9
+  ----> with dlm variable: 7889 - 320 ::= 7569 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 788 + 708080 ::= 708868 sum of 1 and addth 230
+  |
+  v
+  ----> with mld variable: 788 - 708080 ::= 707292 sum of 9
+  ----> with dlm variable: 788 - 230 ::= 558 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 78 + 7080 ::= 7158 sum of 3 and addth 150
+  |
+  v
+  ----> with mld variable: 78 - 7080 ::= 7002 sum of 9
+  ----> with dlm variable: 78 - 150 ::= 72 sum of 9
+  ----> we reach the 9
+  ----> same
+
+the number is 7 + 70 ::= 77 sum of 5 and addth 70
+  |
+  v
+  ----> with mld variable: 7 - 70 ::= 63 sum of 9
+  ----> with dlm variable: 7 - 70 ::= 63 sum of 9
+  ----> we reach the 9
+  ----> same
+
